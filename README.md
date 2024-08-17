@@ -15,10 +15,10 @@ Leveraging dumpor.com indexing capabilities, it retrieves all usernames associat
 
 # ⚙️ Installation
 ```console
-eva@paradise:~$ git clone https://github.com/blackeko/yesitsme/
-eva@paradise:~$ cd yesitsme
-eva@paradise:~$ pip3 install -r requirements.txt
-eva@paradise:~$ python3 yesitsme.py -s SESSION_ID -n NAME -e EMAIL -p PHONE -t TIMEOUT 
+git clone https://github.com/blackeko/yesitsme/
+cd yesitsme
+pip3 install -r requirements.txt
+python3 yesitsme.py -s SESSION_ID -n NAME -e EMAIL -p PHONE -t TIMEOUT 
 ```
 
 # 🕹️ Usage
